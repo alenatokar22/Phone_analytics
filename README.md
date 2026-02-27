@@ -42,7 +42,9 @@ Power Query
 - Виявити вплив неробочого часу на ліди
 - Оптимізувати розподіл робочого часу
 
-[Phone_analytics.pdf](https://github.com/user-attachments/files/25598407/Phone_analytics.pdf)
+<img width="605" height="341" alt="Знімок екрана 2026-02-27 102752" src="https://github.com/user-attachments/assets/4cd0d00d-fe79-4e8c-b61b-214ffae52a38" />
 
-[Phone_analytics (1).pdf](https://github.com/user-attachments/files/25598410/Phone_analytics.1.pdf)
+
+<img width="1150" height="644" alt="image" src="https://github.com/user-attachments/assets/1b706238-c305-425e-bf77-ff24aa07d495" />
+
 
