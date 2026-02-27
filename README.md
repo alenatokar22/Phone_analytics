@@ -41,3 +41,8 @@ Power Query
 - Проаналізувати ефективність менеджерів
 - Виявити вплив неробочого часу на ліди
 - Оптимізувати розподіл робочого часу
+
+[Phone_analytics.pdf](https://github.com/user-attachments/files/25598407/Phone_analytics.pdf)
+
+[Phone_analytics (1).pdf](https://github.com/user-attachments/files/25598410/Phone_analytics.1.pdf)
+
