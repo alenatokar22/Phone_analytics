@@ -42,7 +42,8 @@ Power Query
 - Виявити вплив неробочого часу на ліди
 - Оптимізувати розподіл робочого часу
 
-<img width="605" height="341" alt="Знімок екрана 2026-02-27 102752" src="https://github.com/user-attachments/assets/4cd0d00d-fe79-4e8c-b61b-214ffae52a38" />
+<img width="1156" height="645" alt="image" src="https://github.com/user-attachments/assets/fff2a5be-50c5-442a-af0c-7e4cd87451dc" />
+
 
 
 <img width="1150" height="644" alt="image" src="https://github.com/user-attachments/assets/1b706238-c305-425e-bf77-ff24aa07d495" />
